@@ -6,3 +6,8 @@ There are 5 measures that quantify performance and productivity: initiative, cre
 
 Link to dashboard: 
 https://reviewsdash.herokuapp.com
+
+### Files
+1. average_Updated_360.csv: average rating of each intern and comments classified as either positive or negative
+2. Intern_products.csv: groups interns with their teammates and products
+3. app.py
